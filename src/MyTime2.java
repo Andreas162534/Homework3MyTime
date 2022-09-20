@@ -1,4 +1,4 @@
-package edu.sjsu.assignment2;
+
 
 import java.util.Scanner;
 
