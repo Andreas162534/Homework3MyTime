@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.sjsu.assignment2","c":"MyTime2","l":"MyTime2()","u":"%3Cinit%3E()"},{"p":"edu.sjsu.assignment2","c":"MyTime2","l":"printTimeDifference()"}];updateSearchResults();
